@@ -36,6 +36,10 @@ body {
   padding: 10px;
 }
 
+#mid-heading h1, #mid-heading p, #lower-heading h1, #lower-heading p, #page-header h2, #page-headerp {
+  text-shadow: 2px 2px black;
+}
+
 #info .col {
   padding: 20px;
 }
